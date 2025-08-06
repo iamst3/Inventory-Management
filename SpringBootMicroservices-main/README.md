@@ -1,4 +1,4 @@
-# SpringBoot-Microservices Assignment
-This is for SpringBoot Assignment 
+# SpringBoot-Microservices(Inventory Management)
+This is for SpringBoot Application 
 There is use of microservices
-And also implementation of auth0.2
+And also implementation of auth0.2.
